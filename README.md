@@ -12,4 +12,8 @@ incl. music, changing effects over time, 3D elements, plasma effects, starfields
 
 <img width="2560" height="1080" alt="1 (7)" src="https://github.com/user-attachments/assets/0f440b6f-638f-4911-b337-a4541f56638d" />
 
+<img width="2560" height="1080" alt="1 (6)" src="https://github.com/user-attachments/assets/a3ad7b2f-c813-43fa-8423-8b65f753702f" />
+
 <img width="2560" height="1080" alt="1 (9)" src="https://github.com/user-attachments/assets/a1d21e21-70f5-45b2-ad6e-4a71b50db5b6" />
+
+<img width="2560" height="1080" alt="1 (4)" src="https://github.com/user-attachments/assets/bc5a4fba-0963-46ec-b0a6-8f73aad0a56b" />
