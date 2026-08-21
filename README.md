@@ -2,7 +2,7 @@
 
 Competition: 8 KB
 
-8kb demoscene project using flat assembler (fasm)
+8kb demoscene project using flat assembler (fasm) (for Windows 10/11)
 
 <img width="2560" height="1080" alt="1 (2)" src="https://github.com/user-attachments/assets/170b5384-36e4-4bfd-9486-3dbedf81f078" />
 
